@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Pandhi Vamsi
 - 👀 I’m interested in building new projects.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently studying B.E.
 - 💞️ I’m looking to collaborate on interested projects.
-- 📫 How to reach me mailto:pvamsi3010@gmail.com
+- 📫 How to reach me mail to:pvamsi3010@gmail.com
 
 <!---
 pandhivamsi/pandhivamsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
