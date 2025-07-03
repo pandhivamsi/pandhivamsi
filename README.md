@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pandhi Vamsi
 - 👀 I’m interested in building new projects.
-- 🌱 I’m currently studying B.E.
+- 🌱 I’m currently looking for an oppurtunity.
 - 💞️ I’m looking to collaborate on interested projects.
 - 📫 How to reach me mail to:pvamsi3010@gmail.com
 
